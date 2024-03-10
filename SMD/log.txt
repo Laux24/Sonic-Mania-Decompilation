@@ -11547,3 +11547,1541 @@ Loaded data file Data/Sprites/Eggman/EggmanButton.gif
 Loaded data file Data/Music/GreenHill1.ogg
 Loaded data file Data/Music/Super.ogg
 Attempting to save user file: Achievements.bin
+Attempting to load user file: Achievements.bin
+Loaded file Data.rsdk
+w: 1920 h: 1080 windowed: 0
+
+Data file not found: Data/Shaders/DX11/None.hlsl
+Loaded data file Data/Shaders/CSO-DX11/None.vso
+Data file not found: Data/Shaders/DX11/None.hlsl
+Loaded data file Data/Shaders/CSO-DX11/None.fso
+Data file not found: Data/Shaders/DX11/Clean.hlsl
+Loaded data file Data/Shaders/CSO-DX11/Clean.vso
+Data file not found: Data/Shaders/DX11/Clean.hlsl
+Loaded data file Data/Shaders/CSO-DX11/Clean.fso
+Data file not found: Data/Shaders/DX11/CRT-Yeetron.hlsl
+Loaded data file Data/Shaders/CSO-DX11/CRT-Yeetron.vso
+Data file not found: Data/Shaders/DX11/CRT-Yeetron.hlsl
+Loaded data file Data/Shaders/CSO-DX11/CRT-Yeetron.fso
+Data file not found: Data/Shaders/DX11/CRT-Yee64.hlsl
+Loaded data file Data/Shaders/CSO-DX11/CRT-Yee64.vso
+Data file not found: Data/Shaders/DX11/CRT-Yee64.hlsl
+Loaded data file Data/Shaders/CSO-DX11/CRT-Yee64.fso
+Data file not found: Data/Shaders/DX11/YUV-420.hlsl
+Loaded data file Data/Shaders/CSO-DX11/YUV-420.vso
+Data file not found: Data/Shaders/DX11/YUV-420.hlsl
+Loaded data file Data/Shaders/CSO-DX11/YUV-420.fso
+Data file not found: Data/Shaders/DX11/YUV-422.hlsl
+Loaded data file Data/Shaders/CSO-DX11/YUV-422.vso
+Data file not found: Data/Shaders/DX11/YUV-422.hlsl
+Loaded data file Data/Shaders/CSO-DX11/YUV-422.fso
+Data file not found: Data/Shaders/DX11/YUV-444.hlsl
+Loaded data file Data/Shaders/CSO-DX11/YUV-444.vso
+Data file not found: Data/Shaders/DX11/YUV-444.hlsl
+Loaded data file Data/Shaders/CSO-DX11/YUV-444.fso
+Data file not found: Data/Shaders/DX11/RGB-Image.hlsl
+Loaded data file Data/Shaders/CSO-DX11/RGB-Image.vso
+Data file not found: Data/Shaders/DX11/RGB-Image.hlsl
+Loaded data file Data/Shaders/CSO-DX11/RGB-Image.fso
+Total HID GamePad Count: 0
+Loaded file Data.rsdk
+Data file not found: Data/Objects/Static/420701D3A57A564031790EE4228C7BDE.bin
+Data file not found: Data/Objects/Static/AD8ECA1EB8CDCB6CEAA5CE2E361EF48E.bin
+Data file not found: Data/Objects/Static/38021520621EDBEBB1E1B2FE4423535F.bin
+Data file not found: Data/Objects/Static/B5238FBBD2653E8506337C21FACF1A88.bin
+Loaded data file Data/Game/GameConfig.bin
+Loaded data file Data/SoundFX/Global/Jump.wav
+Loaded data file Data/SoundFX/Global/Ring.wav
+Loaded data file Data/SoundFX/Global/StarPost.wav
+Loaded data file Data/SoundFX/Global/LoseRings.wav
+Loaded data file Data/SoundFX/Global/Spring.wav
+Loaded data file Data/SoundFX/Global/Destroy.wav
+Loaded data file Data/SoundFX/Global/BlueShield.wav
+Loaded data file Data/SoundFX/Global/BubbleShield.wav
+Loaded data file Data/SoundFX/Global/FireShield.wav
+Loaded data file Data/SoundFX/Global/LightningShield.wav
+Loaded data file Data/SoundFX/Global/Skidding.wav
+Loaded data file Data/SoundFX/Global/Charge.wav
+Loaded data file Data/SoundFX/Global/Release.wav
+Loaded data file Data/SoundFX/Global/DropDash.wav
+Loaded data file Data/SoundFX/Global/Hurt.wav
+Loaded data file Data/SoundFX/Global/Roll.wav
+Loaded data file Data/SoundFX/Global/SignPost.wav
+Loaded data file Data/SoundFX/Global/SignPost2p.wav
+Loaded data file Data/SoundFX/Global/InstaShield.wav
+Loaded data file Data/SoundFX/Global/FireDash.wav
+Loaded data file Data/SoundFX/Global/BubbleBounce.wav
+Loaded data file Data/SoundFX/Global/LightningJump.wav
+Loaded data file Data/SoundFX/Global/SpikesMove.wav
+Loaded data file Data/SoundFX/Global/Slide.wav
+Loaded data file Data/SoundFX/Global/Twinkle.wav
+Loaded data file Data/SoundFX/Global/ScoreAdd.wav
+Loaded data file Data/SoundFX/Global/ScoreTotal.wav
+Loaded data file Data/SoundFX/Global/MenuBleep.wav
+Loaded data file Data/SoundFX/Global/MenuAccept.wav
+Loaded data file Data/SoundFX/Global/OuttaHere.wav
+Loaded data file Data/SoundFX/Global/Grab.wav
+Loaded data file Data/SoundFX/Global/Flying.wav
+Loaded data file Data/SoundFX/Global/Tired.wav
+Loaded data file Data/SoundFX/Global/Land.wav
+Loaded data file Data/SoundFX/Global/SpecialRing.wav
+Loaded data file Data/SoundFX/Global/SpecialWarp.wav
+Loaded data file Data/SoundFX/Global/Teleport.wav
+Loaded data file Data/SoundFX/Global/PeelCharge.wav
+Loaded data file Data/SoundFX/Global/PeelRelease.wav
+Loaded data file Data/SoundFX/Global/HyperRing.wav
+Loaded data file Data/SoundFX/Stage/Transform2.wav
+Loaded data file Data/SoundFX/Global/MenuWoosh.wav
+Loaded data file Data/SoundFX/VO/Three.wav
+Loaded data file Data/SoundFX/VO/Two.wav
+Loaded data file Data/SoundFX/VO/One.wav
+Loaded data file Data/SoundFX/VO/Go.wav
+Loaded data file Data/SoundFX/VO/Goal.wav
+Loaded data file Data/SoundFX/VO/SonicWins.wav
+Loaded data file Data/SoundFX/VO/TailsWins.wav
+Loaded data file Data/SoundFX/VO/KnuxWins.wav
+Loaded data file Data/SoundFX/Global/Push.wav
+Loaded data file Data/SoundFX/Stage/Fail.wav
+Loaded data file Data/SoundFX/Stage/PimPom.wav
+Loaded data file Data/SoundFX/Global/Spike.wav
+Loaded data file Data/SoundFX/Stage/Click.wav
+Loaded data file Data/SoundFX/VO/NewRecordTop.wav
+Loaded data file Data/SoundFX/VO/NewRecordMid.wav
+Loaded data file Data/SoundFX/Special/Event.wav
+Loaded data file Data/SoundFX/Global/Swap.wav
+Loaded data file Data/SoundFX/Stage/PowerDown.wav
+Loaded data file Data/SoundFX/Global/SwapFail.wav
+Loaded data file Data/SoundFX/Global/MightyDeflect.wav
+Loaded data file Data/SoundFX/Global/MightyDrill.wav
+Loaded data file Data/SoundFX/Global/MightyLand.wav
+Loaded data file Data/SoundFX/Global/MightyUnspin.wav
+Loaded data file Data/SoundFX/Global/RaySwoop.wav
+Loaded data file Data/SoundFX/Global/RayDive.wav
+Loaded data file Data/SoundFX/Global/Recovery.wav
+Data file not found: Data/Shaders/DX11/None.hlsl
+Loaded data file Data/Shaders/CSO-DX11/None.vso
+Data file not found: Data/Shaders/DX11/None.hlsl
+Loaded data file Data/Shaders/CSO-DX11/None.fso
+Data file not found: Data/Shaders/DX11/Clean.hlsl
+Loaded data file Data/Shaders/CSO-DX11/Clean.vso
+Data file not found: Data/Shaders/DX11/Clean.hlsl
+Loaded data file Data/Shaders/CSO-DX11/Clean.fso
+Data file not found: Data/Shaders/DX11/CRT-Yeetron.hlsl
+Loaded data file Data/Shaders/CSO-DX11/CRT-Yeetron.vso
+Data file not found: Data/Shaders/DX11/CRT-Yeetron.hlsl
+Loaded data file Data/Shaders/CSO-DX11/CRT-Yeetron.fso
+Data file not found: Data/Shaders/DX11/CRT-Yee64.hlsl
+Loaded data file Data/Shaders/CSO-DX11/CRT-Yee64.vso
+Data file not found: Data/Shaders/DX11/CRT-Yee64.hlsl
+Loaded data file Data/Shaders/CSO-DX11/CRT-Yee64.fso
+Data file not found: Data/Shaders/DX11/YUV-420.hlsl
+Loaded data file Data/Shaders/CSO-DX11/YUV-420.vso
+Data file not found: Data/Shaders/DX11/YUV-420.hlsl
+Loaded data file Data/Shaders/CSO-DX11/YUV-420.fso
+Data file not found: Data/Shaders/DX11/YUV-422.hlsl
+Loaded data file Data/Shaders/CSO-DX11/YUV-422.vso
+Data file not found: Data/Shaders/DX11/YUV-422.hlsl
+Loaded data file Data/Shaders/CSO-DX11/YUV-422.fso
+Data file not found: Data/Shaders/DX11/YUV-444.hlsl
+Loaded data file Data/Shaders/CSO-DX11/YUV-444.vso
+Data file not found: Data/Shaders/DX11/YUV-444.hlsl
+Loaded data file Data/Shaders/CSO-DX11/YUV-444.fso
+Data file not found: Data/Shaders/DX11/RGB-Image.hlsl
+Loaded data file Data/Shaders/CSO-DX11/RGB-Image.vso
+Data file not found: Data/Shaders/DX11/RGB-Image.hlsl
+Loaded data file Data/Shaders/CSO-DX11/RGB-Image.fso
+Loading Scene "Presentation - Logos" with filter 255
+Loaded data file Data/Stages/Logos/TileConfig.bin
+Loaded data file Data/Stages/Logos/StageConfig.bin
+Data file not found: Data/Objects/Static/870F0B5491E4D7EE7EA03F7F7A3D93CC.bin
+Data file not found: Data/Objects/Static/C626F7AC50103D2F03D73ADC4EA5EC0B.bin
+Loaded data file Data/SoundFX/Stage/Sega.wav
+Loaded data file Data/Stages/Logos/16x16Tiles.gif
+Loaded data file Data/Stages/Logos/Scene1.bin
+Loaded data file Data/Sprites/Logos/Logos.bin
+Loaded data file Data/Sprites/Logos/Logos.gif
+Total HID GamePad Count: 0
+Total HID GamePad Count: 0
+Loading Scene "Presentation - Title Screen" with filter 255
+Data file not found: Data/Stages/Title/TileConfig.bin
+Loaded data file Data/Stages/Title/StageConfig.bin
+Data file not found: Data/Objects/Static/A0E52DC0A4AC416C03FA533409F51C9B.bin
+Data file not found: Data/Objects/Static/63696833C1395DE585471441C3DC4F72.bin
+Data file not found: Data/Objects/Static/07DCE54EFCF9D7BEE828E774EB4BE2F9.bin
+Data file not found: Data/Objects/Static/8ECD6FF5D03E9FED8544AB52BE40019B.bin
+Data file not found: Data/Objects/Static/0AAE8F292B792056F8F0915FEBBF1659.bin
+Data file not found: Data/Objects/Static/74CDDB38E46629337DBEA81554E62D71.bin
+Data file not found: Data/Objects/Static/D28A3CCCD0726158AA675387915105D3.bin
+Data file not found: Data/Objects/Static/5BA586E9B9B81D7DD4333EF82772A1E5.bin
+Data file not found: Data/Objects/Static/E831CC9701815FF2C9EE663833A5D83E.bin
+Loaded data file Data/SoundFX/Stage/Plus.wav
+Loaded data file Data/Stages/Title/16x16Tiles.gif
+Loaded data file Data/Stages/Title/Scene1.bin
+Object Class 2 is unimplemented!
+Object Class 3 is unimplemented!
+Object Class 11 is unimplemented!
+dataPtr: 9DCAB128
+optionsPtr->screenShader = 0
+optionsPtr->volMusic = 1024
+optionsPtr->volSfx = 1024
+optionsPtr->language = 0
+optionsPtr->overrideLanguage = 1
+optionsPtr->vsync = 0
+optionsPtr->tripleBuffering = 0
+optionsPtr->windowBorder = 0
+optionsPtr->windowed = 0
+optionsPtr->windowSize = 4
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+C:\Users\Xande\RSDKv5-Decompilation\RSDKv5\RSDK\User\Dummy\DummyPresence.cpp: SetPresence() # Set Steam rich presence string to At the Title Screen
+
+Loaded data file Data/Sprites/Title/Electricity.bin
+Loaded data file Data/Sprites/Title/Electricity1.gif
+Loaded data file Data/Sprites/Title/Electricity2.gif
+Loaded data file Data/Sprites/Title/Logo.bin
+Loaded data file Data/Sprites/Title/Logo.gif
+Loaded data file Data/Sprites/Title/PlusLogo.bin
+Loaded data file Data/Sprites/Title/PlusLogo.gif
+Loaded data file Data/Sprites/Title/Sonic.bin
+Loaded data file Data/Sprites/Title/Sonic.gif
+Loaded data file Data/Sprites/Title/Background.bin
+Loaded data file Data/Sprites/Title/BG.gif
+Loaded data file Data/Music/TitleScreen.ogg
+Loading Scene "Presentation - Menu" with filter 255
+Loaded data file Data/Stages/Menu/TileConfig.bin
+Loaded data file Data/Stages/Menu/StageConfig.bin
+Data file not found: Data/Objects/Static/A0E52DC0A4AC416C03FA533409F51C9B.bin
+Data file not found: Data/Objects/Static/9FA409F23B2AD7FDC42D93A6A247EB4A.bin
+Data file not found: Data/Objects/Static/63696833C1395DE585471441C3DC4F72.bin
+Data file not found: Data/Objects/Static/41ABD15D2DB188CB9D247246CD292B6D.bin
+Loaded data file Data/Objects/Static/BD3DF348C7BC63FF3F5529F2E33F9CFE.bin
+Data file not found: Data/Objects/Static/3E0C08BADFF21084B7C14BD2F3DDB36F.bin
+Data file not found: Data/Objects/Static/562BA59ECFD84BCA37086ED821188E27.bin
+Data file not found: Data/Objects/Static/4259398BD7A1FE638342BD76738703DE.bin
+Data file not found: Data/Objects/Static/C626F7AC50103D2F03D73ADC4EA5EC0B.bin
+Data file not found: Data/Objects/Static/4A6F56A4772748B21089BBB6EF1C1C5C.bin
+Data file not found: Data/Objects/Static/0D3350FE558BC9429A2B63709B78BFA3.bin
+Data file not found: Data/Objects/Static/F5E50710316B217757C755410EB281A1.bin
+Data file not found: Data/Objects/Static/36007B5453B033D63F4AE460F37B26C7.bin
+Data file not found: Data/Objects/Static/EF829052B2A6B80050F1B4280ECB334D.bin
+Data file not found: Data/Objects/Static/74CDDB38E46629337DBEA81554E62D71.bin
+Data file not found: Data/Objects/Static/B183447A831D94F894554A9FD2771F8E.bin
+Data file not found: Data/Objects/Static/696B383FF83AEED6063077362D48971E.bin
+Data file not found: Data/Objects/Static/3CA419483AE1DAB14A70DDB830615B44.bin
+Data file not found: Data/Objects/Static/E36CD15BD26E016218C4CEA9BC7DE93E.bin
+Data file not found: Data/Objects/Static/568B5E3E25FDBDA48102464AB261D532.bin
+Data file not found: Data/Objects/Static/EEBB8C48C1DD7523A1A37B0F27B5E9CD.bin
+Data file not found: Data/Objects/Static/56087443493976B5843C29BB8FC368F0.bin
+Data file not found: Data/Objects/Static/8FB4C0AD0B123BE80673968F5663CBAF.bin
+Data file not found: Data/Objects/Static/52BA362D7ABBE4AB0D01E566F5FB0AE6.bin
+Data file not found: Data/Objects/Static/88F76BE5561D4852F0F689A940BDCAC5.bin
+Data file not found: Data/Objects/Static/454F26F5B055180CC743027B8BACEB62.bin
+Data file not found: Data/Objects/Static/31D2E4C0FED48034A2C9972DEC23DFF2.bin
+Data file not found: Data/Objects/Static/7D31E101EFE56A10AF975E5AF7FADE75.bin
+Data file not found: Data/Objects/Static/8559543EF7FDFF0C1E2E8A5F49132E04.bin
+Data file not found: Data/Objects/Static/67147595C78BCEDC91890B9B88AEDE0F.bin
+Data file not found: Data/Objects/Static/01A7E7D368052567796224C77510D353.bin
+Data file not found: Data/Objects/Static/F7543379EB760DF333B13FDCAD1BBD8B.bin
+Data file not found: Data/Objects/Static/609CD2D831928DA7B3EB65A4EDFD32ED.bin
+Data file not found: Data/Objects/Static/7C38DB50CD7E5D5045196C9ED9769613.bin
+Data file not found: Data/Objects/Static/6BE83DAD65E8CD27CDBBEC55BB12F1E4.bin
+Data file not found: Data/Objects/Static/FE85C0B21C60976CBCEE5B962D295687.bin
+Data file not found: Data/Objects/Static/EF2BB3FFEE7C60B0DB02D94D8D9125B6.bin
+Data file not found: Data/Objects/Static/56BEBE28547278986806EACA022CA3E2.bin
+Data file not found: Data/Objects/Static/C569C0389B678737F61E1BF7BB4A8576.bin
+Data file not found: Data/Objects/Static/26B2EA2FA89BB6C6A625A97F404BE306.bin
+Data file not found: Data/Objects/Static/ABDF8276B7DE4823A6245CAD207BABE9.bin
+Data file not found: Data/Objects/Static/205F91EB2AC7DCB03985B26EFDED3703.bin
+Data file not found: Data/Objects/Static/5F10C61D823D9366C38C0C0D1622CE00.bin
+Data file not found: Data/Objects/Static/DA11114BF889233933329721CFB373B1.bin
+Data file not found: Data/Objects/Static/60414E3F0F57EEB323EB9F177A3F5F3E.bin
+Data file not found: Data/Objects/Static/D69409768C660CE73DE6DACF44A30483.bin
+Data file not found: Data/Objects/Static/3BFDB7F45DEFD370074D3C270B8A844B.bin
+Data file not found: Data/Objects/Static/1F1D17D9BE1185B1B9C61DC5ABF2F25F.bin
+Data file not found: Data/Objects/Static/989C43E38CCE42E37D7798B2C63449A6.bin
+Data file not found: Data/Objects/Static/2B54CE55FA74C3776D6391F457783A65.bin
+Data file not found: Data/Objects/Static/F98E5BD202AB93AD1C9FD57DC889A131.bin
+Data file not found: Data/Objects/Static/C7E0F850FBF6FCE5D3E4FD1B4135A2B8.bin
+Data file not found: Data/Objects/Static/75ED2B0AA3042ABA0C56EA17E0907C47.bin
+Data file not found: Data/Objects/Static/6B9063BB3B500D179DB074C7825EE62C.bin
+Loaded data file Data/SoundFX/Special/Event.wav
+Loaded data file Data/SoundFX/VO/Sonic.wav
+Loaded data file Data/SoundFX/VO/Tails.wav
+Loaded data file Data/SoundFX/VO/Knuckles.wav
+Loaded data file Data/SoundFX/VO/Mighty.wav
+Loaded data file Data/SoundFX/VO/Ray.wav
+Loaded data file Data/SoundFX/VO/NewRecordMid.wav
+Loaded data file Data/SoundFX/VO/NewRecordTop.wav
+Loaded data file Data/SoundFX/VO/TheWinnerIs.wav
+Loaded data file Data/SoundFX/VO/Player1.wav
+Loaded data file Data/SoundFX/VO/Player2.wav
+Loaded data file Data/SoundFX/VO/Player3.wav
+Loaded data file Data/SoundFX/VO/Player4.wav
+Loaded data file Data/SoundFX/VO/ItsADraw.wav
+Loaded data file Data/SoundFX/VO/ItsADraw_Set.wav
+Loaded data file Data/SoundFX/Ruby/RedCube_L.wav
+Loaded data file Data/SoundFX/Ruby/RedCube_R.wav
+Loaded data file Data/SoundFX/Ruby/Attack1_L.wav
+Loaded data file Data/SoundFX/Ruby/Attack1_R.wav
+Loaded data file Data/SoundFX/VO/MightyWins.wav
+Loaded data file Data/SoundFX/VO/RayWins.wav
+Loaded data file Data/Stages/Menu/16x16Tiles.gif
+Loaded data file Data/Stages/Menu/Scene1.bin
+dataPtr: 9DCAB128
+optionsPtr->screenShader = 0
+optionsPtr->volMusic = 1024
+optionsPtr->volSfx = 1024
+optionsPtr->language = 0
+optionsPtr->overrideLanguage = 1
+optionsPtr->vsync = 0
+optionsPtr->tripleBuffering = 0
+optionsPtr->windowBorder = 0
+optionsPtr->windowed = 0
+optionsPtr->windowSize = 4
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+Loaded data file Data/Sprites/UI/UIElements.bin
+Loaded data file Data/Sprites/UI/UI.gif
+Loaded data file Data/Sprites/UI/SaveSelect.bin
+Loaded data file Data/Sprites/UI/SaveSelectEN.gif
+Loaded data file Data/Sprites/UI/Zones.gif
+Loaded data file Data/Sprites/UI/SmallFont.bin
+Loaded data file Data/Sprites/UI/SmallFont1.gif
+Loaded data file Data/Sprites/UI/SmallFont2.gif
+Apply Language 0
+Loaded data file Data/Sprites/UI/TextEN.bin
+Loaded data file Data/Sprites/UI/TextEN.gif
+Loaded data file Data/Sprites/UI/PauseEN.gif
+Loaded data file Data/Sprites/UI/TextPlusEN.gif
+Loaded data file Data/Sprites/UI/HeadingsEN.bin
+Loaded data file Data/Sprites/UI/HeadingsEN.gif
+Loaded data file Data/Sprites/UI/Picture.bin
+Loaded data file Data/Sprites/UI/Controllers.gif
+Loaded data file Data/Sprites/UI/MainIcons.bin
+Loaded data file Data/Sprites/UI/MainIcons.gif
+Loaded data file Data/Sprites/UI/Buttons.bin
+Loaded data file Data/Sprites/UI/Buttons.gif
+Menu recall ctrl: 
+DEV SKU
+US REGION
+Loaded data file Data/Sprites/UI/ButtonLabel.bin
+Loaded data file Data/Sprites/UI/WaitSpinner.bin
+Loaded data file Data/Sprites/UI/MedallionPanel.bin
+sfxDrawRound = 81
+sfxDrawSet = 82
+Loaded data file Data/Sprites/UI/Diorama.bin
+Loaded data file Data/Sprites/UI/Diorama.gif
+Loaded data file Data/Sprites/UI/Diorama2.gif
+Loaded data file Data/Sprites/AIZ/SchrodingersCapsule.bin
+Loaded data file Data/Sprites/AIZ/Objects2.gif
+Loaded data file Data/Sprites/Players/Sonic.bin
+Loaded data file Data/Sprites/Players/Sonic1.gif
+Loaded data file Data/Sprites/Players/Sonic2.gif
+Loaded data file Data/Sprites/Players/Sonic3.gif
+Loaded data file Data/Sprites/Players/Tails.bin
+Loaded data file Data/Sprites/Players/Tails1.gif
+Loaded data file Data/Sprites/Players/Tails2.gif
+Loaded data file Data/Sprites/Players/Tails3.gif
+Loaded data file Data/Sprites/Players/KnuxCutsceneAIZ.bin
+Loaded data file Data/Sprites/Players/Knux1.gif
+Loaded data file Data/Sprites/Players/KnuxCutsceneAIZ.gif
+Loaded data file Data/Sprites/Players/KnuxCutsceneHPZ.bin
+Loaded data file Data/Sprites/Players/KnuxCutsceneHPZ.gif
+Loaded data file Data/Sprites/Players/Mighty.bin
+Loaded data file Data/Sprites/Players/Mighty1.gif
+Loaded data file Data/Sprites/Players/Mighty2.gif
+Loaded data file Data/Sprites/Players/Mighty3.gif
+Loaded data file Data/Sprites/Players/Ray.bin
+Loaded data file Data/Sprites/Players/Ray1.gif
+Loaded data file Data/Sprites/Players/Ray2.gif
+Loaded data file Data/Sprites/Players/Ray3.gif
+Loaded data file Data/Sprites/Global/Ring.bin
+Loaded data file Data/Sprites/Global/Items.gif
+Loaded data file Data/Sprites/Global/SpeedGate.bin
+Loaded data file Data/Sprites/Global/Objects.gif
+Loaded data file Data/Sprites/SpecialBS/Sonic.bin
+Loaded data file Data/Sprites/SpecialBS/Players.gif
+Loaded data file Data/Sprites/SpecialBS/StageObjects.bin
+Loaded data file Data/Sprites/SpecialBS/Objects.gif
+Loaded data file Data/Sprites/Global/PhantomRuby.bin
+Loaded data file Data/Sprites/Global/PhantomRuby.gif
+Main Menu
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+Apply Language 0
+Loading Replay DB
+Attempting to load user file: ReplayDB.bin
+Nope!
+Load Failed! Creating new Replay DB
+Replay DB Slot => 0, Load Status => 200
+Attempting to load user file: SaveData.bin
+SaveLoadedCB(1)
+Blue Spheres ID rotated by 0 to 0
+=========================
+Game Progress:
+
+Emerald 0 => FALSE
+Emerald 1 => FALSE
+Emerald 2 => FALSE
+Emerald 3 => FALSE
+Emerald 4 => FALSE
+Emerald 5 => FALSE
+Emerald 6 => FALSE
+YOU'VE NOT ENOUGH EMERALDS!
+
+Zone 0 clear => FALSE
+Zone 1 clear => FALSE
+Zone 2 clear => FALSE
+Zone 3 clear => FALSE
+Zone 4 clear => FALSE
+Zone 5 clear => FALSE
+Zone 6 clear => FALSE
+Zone 7 clear => FALSE
+Zone 8 clear => FALSE
+Zone 9 clear => FALSE
+Zone 10 clear => FALSE
+Zone 11 clear => FALSE
+NO ENDING!
+
+Medallion 0 => NULL
+Medallion 1 => NULL
+Medallion 2 => NULL
+Medallion 3 => NULL
+Medallion 4 => NULL
+Medallion 5 => NULL
+Medallion 6 => NULL
+Medallion 7 => NULL
+Medallion 8 => NULL
+Medallion 9 => NULL
+Medallion 10 => NULL
+Medallion 11 => NULL
+Medallion 12 => NULL
+Medallion 13 => NULL
+Medallion 14 => NULL
+Medallion 15 => NULL
+Medallion 16 => NULL
+Medallion 17 => NULL
+Medallion 18 => NULL
+Medallion 19 => NULL
+Medallion 20 => NULL
+Medallion 21 => NULL
+Medallion 22 => NULL
+Medallion 23 => NULL
+Medallion 24 => NULL
+Medallion 25 => NULL
+Medallion 26 => NULL
+Medallion 27 => NULL
+Medallion 28 => NULL
+Medallion 29 => NULL
+Medallion 30 => NULL
+Medallion 31 => NULL
+GOLD COUNT: 0
+SILVER COUNT: 0
+
+=========================
+Loading Time Attack DB
+Attempting to load user file: TimeAttackDB.bin
+Nope!
+Load Failed! Creating new Time Attack DB
+===========================
+Migrating Legacy TA Data...
+===========================
+Replay DB Slot => 1, Load Status => 200
+DUMMY NotifyAutosave()
+C:\Users\Xande\RSDKv5-Decompilation\RSDKv5\RSDK\User\Dummy\DummyPresence.cpp: SetPresence() # Set Steam rich presence string to Navigating Menu
+
+ManiaModeMenu_Initialize()
+ManiaModeMenu_Initialize()
+ManiaModeMenu_Initialize()
+IntegerGeorge802
+Loaded data file Data/Music/MainMenu.ogg
+Loading Scene "Presentation - Title Screen" with filter 255
+Data file not found: Data/Stages/Title/TileConfig.bin
+Loaded data file Data/Stages/Title/StageConfig.bin
+Data file not found: Data/Objects/Static/A0E52DC0A4AC416C03FA533409F51C9B.bin
+Data file not found: Data/Objects/Static/63696833C1395DE585471441C3DC4F72.bin
+Data file not found: Data/Objects/Static/07DCE54EFCF9D7BEE828E774EB4BE2F9.bin
+Data file not found: Data/Objects/Static/8ECD6FF5D03E9FED8544AB52BE40019B.bin
+Data file not found: Data/Objects/Static/0AAE8F292B792056F8F0915FEBBF1659.bin
+Data file not found: Data/Objects/Static/74CDDB38E46629337DBEA81554E62D71.bin
+Data file not found: Data/Objects/Static/D28A3CCCD0726158AA675387915105D3.bin
+Data file not found: Data/Objects/Static/5BA586E9B9B81D7DD4333EF82772A1E5.bin
+Data file not found: Data/Objects/Static/E831CC9701815FF2C9EE663833A5D83E.bin
+Loaded data file Data/SoundFX/Stage/Plus.wav
+Loaded data file Data/Stages/Title/16x16Tiles.gif
+Loaded data file Data/Stages/Title/Scene1.bin
+Object Class 2 is unimplemented!
+Object Class 3 is unimplemented!
+Object Class 11 is unimplemented!
+dataPtr: 9DCAB128
+optionsPtr->screenShader = 0
+optionsPtr->volMusic = 1024
+optionsPtr->volSfx = 1024
+optionsPtr->language = 0
+optionsPtr->overrideLanguage = 1
+optionsPtr->vsync = 0
+optionsPtr->tripleBuffering = 0
+optionsPtr->windowBorder = 0
+optionsPtr->windowed = 0
+optionsPtr->windowSize = 4
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+C:\Users\Xande\RSDKv5-Decompilation\RSDKv5\RSDK\User\Dummy\DummyPresence.cpp: SetPresence() # Set Steam rich presence string to At the Title Screen
+
+Loaded data file Data/Sprites/Title/Electricity.bin
+Loaded data file Data/Sprites/Title/Electricity1.gif
+Loaded data file Data/Sprites/Title/Electricity2.gif
+Loaded data file Data/Sprites/Title/Logo.bin
+Loaded data file Data/Sprites/Title/Logo.gif
+Loaded data file Data/Sprites/Title/PlusLogo.bin
+Loaded data file Data/Sprites/Title/PlusLogo.gif
+Loaded data file Data/Sprites/Title/Sonic.bin
+Loaded data file Data/Sprites/Title/Sonic.gif
+Loaded data file Data/Sprites/Title/Background.bin
+Loaded data file Data/Sprites/Title/BG.gif
+Loaded data file Data/Music/TitleScreen.ogg
+Loading Scene "Presentation - Menu" with filter 255
+Loaded data file Data/Stages/Menu/TileConfig.bin
+Loaded data file Data/Stages/Menu/StageConfig.bin
+Data file not found: Data/Objects/Static/A0E52DC0A4AC416C03FA533409F51C9B.bin
+Data file not found: Data/Objects/Static/9FA409F23B2AD7FDC42D93A6A247EB4A.bin
+Data file not found: Data/Objects/Static/63696833C1395DE585471441C3DC4F72.bin
+Data file not found: Data/Objects/Static/41ABD15D2DB188CB9D247246CD292B6D.bin
+Loaded data file Data/Objects/Static/BD3DF348C7BC63FF3F5529F2E33F9CFE.bin
+Data file not found: Data/Objects/Static/3E0C08BADFF21084B7C14BD2F3DDB36F.bin
+Data file not found: Data/Objects/Static/562BA59ECFD84BCA37086ED821188E27.bin
+Data file not found: Data/Objects/Static/4259398BD7A1FE638342BD76738703DE.bin
+Data file not found: Data/Objects/Static/C626F7AC50103D2F03D73ADC4EA5EC0B.bin
+Data file not found: Data/Objects/Static/4A6F56A4772748B21089BBB6EF1C1C5C.bin
+Data file not found: Data/Objects/Static/0D3350FE558BC9429A2B63709B78BFA3.bin
+Data file not found: Data/Objects/Static/F5E50710316B217757C755410EB281A1.bin
+Data file not found: Data/Objects/Static/36007B5453B033D63F4AE460F37B26C7.bin
+Data file not found: Data/Objects/Static/EF829052B2A6B80050F1B4280ECB334D.bin
+Data file not found: Data/Objects/Static/74CDDB38E46629337DBEA81554E62D71.bin
+Data file not found: Data/Objects/Static/B183447A831D94F894554A9FD2771F8E.bin
+Data file not found: Data/Objects/Static/696B383FF83AEED6063077362D48971E.bin
+Data file not found: Data/Objects/Static/3CA419483AE1DAB14A70DDB830615B44.bin
+Data file not found: Data/Objects/Static/E36CD15BD26E016218C4CEA9BC7DE93E.bin
+Data file not found: Data/Objects/Static/568B5E3E25FDBDA48102464AB261D532.bin
+Data file not found: Data/Objects/Static/EEBB8C48C1DD7523A1A37B0F27B5E9CD.bin
+Data file not found: Data/Objects/Static/56087443493976B5843C29BB8FC368F0.bin
+Data file not found: Data/Objects/Static/8FB4C0AD0B123BE80673968F5663CBAF.bin
+Data file not found: Data/Objects/Static/52BA362D7ABBE4AB0D01E566F5FB0AE6.bin
+Data file not found: Data/Objects/Static/88F76BE5561D4852F0F689A940BDCAC5.bin
+Data file not found: Data/Objects/Static/454F26F5B055180CC743027B8BACEB62.bin
+Data file not found: Data/Objects/Static/31D2E4C0FED48034A2C9972DEC23DFF2.bin
+Data file not found: Data/Objects/Static/7D31E101EFE56A10AF975E5AF7FADE75.bin
+Data file not found: Data/Objects/Static/8559543EF7FDFF0C1E2E8A5F49132E04.bin
+Data file not found: Data/Objects/Static/67147595C78BCEDC91890B9B88AEDE0F.bin
+Data file not found: Data/Objects/Static/01A7E7D368052567796224C77510D353.bin
+Data file not found: Data/Objects/Static/F7543379EB760DF333B13FDCAD1BBD8B.bin
+Data file not found: Data/Objects/Static/609CD2D831928DA7B3EB65A4EDFD32ED.bin
+Data file not found: Data/Objects/Static/7C38DB50CD7E5D5045196C9ED9769613.bin
+Data file not found: Data/Objects/Static/6BE83DAD65E8CD27CDBBEC55BB12F1E4.bin
+Data file not found: Data/Objects/Static/FE85C0B21C60976CBCEE5B962D295687.bin
+Data file not found: Data/Objects/Static/EF2BB3FFEE7C60B0DB02D94D8D9125B6.bin
+Data file not found: Data/Objects/Static/56BEBE28547278986806EACA022CA3E2.bin
+Data file not found: Data/Objects/Static/C569C0389B678737F61E1BF7BB4A8576.bin
+Data file not found: Data/Objects/Static/26B2EA2FA89BB6C6A625A97F404BE306.bin
+Data file not found: Data/Objects/Static/ABDF8276B7DE4823A6245CAD207BABE9.bin
+Data file not found: Data/Objects/Static/205F91EB2AC7DCB03985B26EFDED3703.bin
+Data file not found: Data/Objects/Static/5F10C61D823D9366C38C0C0D1622CE00.bin
+Data file not found: Data/Objects/Static/DA11114BF889233933329721CFB373B1.bin
+Data file not found: Data/Objects/Static/60414E3F0F57EEB323EB9F177A3F5F3E.bin
+Data file not found: Data/Objects/Static/D69409768C660CE73DE6DACF44A30483.bin
+Data file not found: Data/Objects/Static/3BFDB7F45DEFD370074D3C270B8A844B.bin
+Data file not found: Data/Objects/Static/1F1D17D9BE1185B1B9C61DC5ABF2F25F.bin
+Data file not found: Data/Objects/Static/989C43E38CCE42E37D7798B2C63449A6.bin
+Data file not found: Data/Objects/Static/2B54CE55FA74C3776D6391F457783A65.bin
+Data file not found: Data/Objects/Static/F98E5BD202AB93AD1C9FD57DC889A131.bin
+Data file not found: Data/Objects/Static/C7E0F850FBF6FCE5D3E4FD1B4135A2B8.bin
+Data file not found: Data/Objects/Static/75ED2B0AA3042ABA0C56EA17E0907C47.bin
+Data file not found: Data/Objects/Static/6B9063BB3B500D179DB074C7825EE62C.bin
+Loaded data file Data/SoundFX/Special/Event.wav
+Loaded data file Data/SoundFX/VO/Sonic.wav
+Loaded data file Data/SoundFX/VO/Tails.wav
+Loaded data file Data/SoundFX/VO/Knuckles.wav
+Loaded data file Data/SoundFX/VO/Mighty.wav
+Loaded data file Data/SoundFX/VO/Ray.wav
+Loaded data file Data/SoundFX/VO/NewRecordMid.wav
+Loaded data file Data/SoundFX/VO/NewRecordTop.wav
+Loaded data file Data/SoundFX/VO/TheWinnerIs.wav
+Loaded data file Data/SoundFX/VO/Player1.wav
+Loaded data file Data/SoundFX/VO/Player2.wav
+Loaded data file Data/SoundFX/VO/Player3.wav
+Loaded data file Data/SoundFX/VO/Player4.wav
+Loaded data file Data/SoundFX/VO/ItsADraw.wav
+Loaded data file Data/SoundFX/VO/ItsADraw_Set.wav
+Loaded data file Data/SoundFX/Ruby/RedCube_L.wav
+Loaded data file Data/SoundFX/Ruby/RedCube_R.wav
+Loaded data file Data/SoundFX/Ruby/Attack1_L.wav
+Loaded data file Data/SoundFX/Ruby/Attack1_R.wav
+Loaded data file Data/SoundFX/VO/MightyWins.wav
+Loaded data file Data/SoundFX/VO/RayWins.wav
+Loaded data file Data/Stages/Menu/16x16Tiles.gif
+Loaded data file Data/Stages/Menu/Scene1.bin
+dataPtr: 9DCAB128
+optionsPtr->screenShader = 0
+optionsPtr->volMusic = 1024
+optionsPtr->volSfx = 1024
+optionsPtr->language = 0
+optionsPtr->overrideLanguage = 1
+optionsPtr->vsync = 0
+optionsPtr->tripleBuffering = 0
+optionsPtr->windowBorder = 0
+optionsPtr->windowed = 0
+optionsPtr->windowSize = 4
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+Loaded data file Data/Sprites/UI/UIElements.bin
+Loaded data file Data/Sprites/UI/UI.gif
+Loaded data file Data/Sprites/UI/SaveSelect.bin
+Loaded data file Data/Sprites/UI/SaveSelectEN.gif
+Loaded data file Data/Sprites/UI/Zones.gif
+Loaded data file Data/Sprites/UI/SmallFont.bin
+Loaded data file Data/Sprites/UI/SmallFont1.gif
+Loaded data file Data/Sprites/UI/SmallFont2.gif
+Apply Language 0
+Loaded data file Data/Sprites/UI/TextEN.bin
+Loaded data file Data/Sprites/UI/TextEN.gif
+Loaded data file Data/Sprites/UI/PauseEN.gif
+Loaded data file Data/Sprites/UI/TextPlusEN.gif
+Loaded data file Data/Sprites/UI/HeadingsEN.bin
+Loaded data file Data/Sprites/UI/HeadingsEN.gif
+Loaded data file Data/Sprites/UI/Picture.bin
+Loaded data file Data/Sprites/UI/Controllers.gif
+Loaded data file Data/Sprites/UI/MainIcons.bin
+Loaded data file Data/Sprites/UI/MainIcons.gif
+Loaded data file Data/Sprites/UI/Buttons.bin
+Loaded data file Data/Sprites/UI/Buttons.gif
+Menu recall ctrl: 
+DEV SKU
+US REGION
+Loaded data file Data/Sprites/UI/ButtonLabel.bin
+Loaded data file Data/Sprites/UI/WaitSpinner.bin
+Loaded data file Data/Sprites/UI/MedallionPanel.bin
+sfxDrawRound = 81
+sfxDrawSet = 82
+Loaded data file Data/Sprites/UI/Diorama.bin
+Loaded data file Data/Sprites/UI/Diorama.gif
+Loaded data file Data/Sprites/UI/Diorama2.gif
+Loaded data file Data/Sprites/AIZ/SchrodingersCapsule.bin
+Loaded data file Data/Sprites/AIZ/Objects2.gif
+Loaded data file Data/Sprites/Players/Sonic.bin
+Loaded data file Data/Sprites/Players/Sonic1.gif
+Loaded data file Data/Sprites/Players/Sonic2.gif
+Loaded data file Data/Sprites/Players/Sonic3.gif
+Loaded data file Data/Sprites/Players/Tails.bin
+Loaded data file Data/Sprites/Players/Tails1.gif
+Loaded data file Data/Sprites/Players/Tails2.gif
+Loaded data file Data/Sprites/Players/Tails3.gif
+Loaded data file Data/Sprites/Players/KnuxCutsceneAIZ.bin
+Loaded data file Data/Sprites/Players/Knux1.gif
+Loaded data file Data/Sprites/Players/KnuxCutsceneAIZ.gif
+Loaded data file Data/Sprites/Players/KnuxCutsceneHPZ.bin
+Loaded data file Data/Sprites/Players/KnuxCutsceneHPZ.gif
+Loaded data file Data/Sprites/Players/Mighty.bin
+Loaded data file Data/Sprites/Players/Mighty1.gif
+Loaded data file Data/Sprites/Players/Mighty2.gif
+Loaded data file Data/Sprites/Players/Mighty3.gif
+Loaded data file Data/Sprites/Players/Ray.bin
+Loaded data file Data/Sprites/Players/Ray1.gif
+Loaded data file Data/Sprites/Players/Ray2.gif
+Loaded data file Data/Sprites/Players/Ray3.gif
+Loaded data file Data/Sprites/Global/Ring.bin
+Loaded data file Data/Sprites/Global/Items.gif
+Loaded data file Data/Sprites/Global/SpeedGate.bin
+Loaded data file Data/Sprites/Global/Objects.gif
+Loaded data file Data/Sprites/SpecialBS/Sonic.bin
+Loaded data file Data/Sprites/SpecialBS/Players.gif
+Loaded data file Data/Sprites/SpecialBS/StageObjects.bin
+Loaded data file Data/Sprites/SpecialBS/Objects.gif
+Loaded data file Data/Sprites/Global/PhantomRuby.bin
+Loaded data file Data/Sprites/Global/PhantomRuby.gif
+Main Menu
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+Apply Language 0
+Loading Replay DB
+Attempting to load user file: ReplayDB.bin
+Nope!
+Load Failed! Creating new Replay DB
+Replay DB Slot => 0, Load Status => 200
+Attempting to load user file: SaveData.bin
+SaveLoadedCB(1)
+Blue Spheres ID rotated by 0 to 0
+=========================
+Game Progress:
+
+Emerald 0 => FALSE
+Emerald 1 => FALSE
+Emerald 2 => FALSE
+Emerald 3 => FALSE
+Emerald 4 => FALSE
+Emerald 5 => FALSE
+Emerald 6 => FALSE
+YOU'VE NOT ENOUGH EMERALDS!
+
+Zone 0 clear => FALSE
+Zone 1 clear => FALSE
+Zone 2 clear => FALSE
+Zone 3 clear => FALSE
+Zone 4 clear => FALSE
+Zone 5 clear => FALSE
+Zone 6 clear => FALSE
+Zone 7 clear => FALSE
+Zone 8 clear => FALSE
+Zone 9 clear => FALSE
+Zone 10 clear => FALSE
+Zone 11 clear => FALSE
+NO ENDING!
+
+Medallion 0 => NULL
+Medallion 1 => NULL
+Medallion 2 => NULL
+Medallion 3 => NULL
+Medallion 4 => NULL
+Medallion 5 => NULL
+Medallion 6 => NULL
+Medallion 7 => NULL
+Medallion 8 => NULL
+Medallion 9 => NULL
+Medallion 10 => NULL
+Medallion 11 => NULL
+Medallion 12 => NULL
+Medallion 13 => NULL
+Medallion 14 => NULL
+Medallion 15 => NULL
+Medallion 16 => NULL
+Medallion 17 => NULL
+Medallion 18 => NULL
+Medallion 19 => NULL
+Medallion 20 => NULL
+Medallion 21 => NULL
+Medallion 22 => NULL
+Medallion 23 => NULL
+Medallion 24 => NULL
+Medallion 25 => NULL
+Medallion 26 => NULL
+Medallion 27 => NULL
+Medallion 28 => NULL
+Medallion 29 => NULL
+Medallion 30 => NULL
+Medallion 31 => NULL
+GOLD COUNT: 0
+SILVER COUNT: 0
+
+=========================
+Loading Time Attack DB
+Attempting to load user file: TimeAttackDB.bin
+Nope!
+Load Failed! Creating new Time Attack DB
+===========================
+Migrating Legacy TA Data...
+===========================
+Replay DB Slot => 1, Load Status => 200
+C:\Users\Xande\RSDKv5-Decompilation\RSDKv5\RSDK\User\Dummy\DummyPresence.cpp: SetPresence() # Set Steam rich presence string to Navigating Menu
+
+ManiaModeMenu_Initialize()
+ManiaModeMenu_Initialize()
+ManiaModeMenu_Initialize()
+IntegerGeorge802
+Loaded data file Data/Music/MainMenu.ogg
+Save Select
+Loaded data file Data/Music/SaveSelect.ogg
+Secrets
+Save Select
+Main Menu
+Loaded data file Data/Music/MainMenu.ogg
+Loading Scene "Presentation - Title Screen" with filter 255
+Data file not found: Data/Stages/Title/TileConfig.bin
+Loaded data file Data/Stages/Title/StageConfig.bin
+Data file not found: Data/Objects/Static/A0E52DC0A4AC416C03FA533409F51C9B.bin
+Data file not found: Data/Objects/Static/63696833C1395DE585471441C3DC4F72.bin
+Data file not found: Data/Objects/Static/07DCE54EFCF9D7BEE828E774EB4BE2F9.bin
+Data file not found: Data/Objects/Static/8ECD6FF5D03E9FED8544AB52BE40019B.bin
+Data file not found: Data/Objects/Static/0AAE8F292B792056F8F0915FEBBF1659.bin
+Data file not found: Data/Objects/Static/74CDDB38E46629337DBEA81554E62D71.bin
+Data file not found: Data/Objects/Static/D28A3CCCD0726158AA675387915105D3.bin
+Data file not found: Data/Objects/Static/5BA586E9B9B81D7DD4333EF82772A1E5.bin
+Data file not found: Data/Objects/Static/E831CC9701815FF2C9EE663833A5D83E.bin
+Loaded data file Data/SoundFX/Stage/Plus.wav
+Loaded data file Data/Stages/Title/16x16Tiles.gif
+Loaded data file Data/Stages/Title/Scene1.bin
+Object Class 2 is unimplemented!
+Object Class 3 is unimplemented!
+Object Class 11 is unimplemented!
+dataPtr: 9DCAB128
+optionsPtr->screenShader = 0
+optionsPtr->volMusic = 1024
+optionsPtr->volSfx = 1024
+optionsPtr->language = 0
+optionsPtr->overrideLanguage = 1
+optionsPtr->vsync = 0
+optionsPtr->tripleBuffering = 0
+optionsPtr->windowBorder = 0
+optionsPtr->windowed = 0
+optionsPtr->windowSize = 4
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+C:\Users\Xande\RSDKv5-Decompilation\RSDKv5\RSDK\User\Dummy\DummyPresence.cpp: SetPresence() # Set Steam rich presence string to At the Title Screen
+
+Loaded data file Data/Sprites/Title/Electricity.bin
+Loaded data file Data/Sprites/Title/Electricity1.gif
+Loaded data file Data/Sprites/Title/Electricity2.gif
+Loaded data file Data/Sprites/Title/Logo.bin
+Loaded data file Data/Sprites/Title/Logo.gif
+Loaded data file Data/Sprites/Title/PlusLogo.bin
+Loaded data file Data/Sprites/Title/PlusLogo.gif
+Loaded data file Data/Sprites/Title/Sonic.bin
+Loaded data file Data/Sprites/Title/Sonic.gif
+Loaded data file Data/Sprites/Title/Background.bin
+Loaded data file Data/Sprites/Title/BG.gif
+Loaded data file Data/Music/TitleScreen.ogg
+Loading Scene "Presentation - Menu" with filter 255
+Loaded data file Data/Stages/Menu/TileConfig.bin
+Loaded data file Data/Stages/Menu/StageConfig.bin
+Data file not found: Data/Objects/Static/A0E52DC0A4AC416C03FA533409F51C9B.bin
+Data file not found: Data/Objects/Static/9FA409F23B2AD7FDC42D93A6A247EB4A.bin
+Data file not found: Data/Objects/Static/63696833C1395DE585471441C3DC4F72.bin
+Data file not found: Data/Objects/Static/41ABD15D2DB188CB9D247246CD292B6D.bin
+Loaded data file Data/Objects/Static/BD3DF348C7BC63FF3F5529F2E33F9CFE.bin
+Data file not found: Data/Objects/Static/3E0C08BADFF21084B7C14BD2F3DDB36F.bin
+Data file not found: Data/Objects/Static/562BA59ECFD84BCA37086ED821188E27.bin
+Data file not found: Data/Objects/Static/4259398BD7A1FE638342BD76738703DE.bin
+Data file not found: Data/Objects/Static/C626F7AC50103D2F03D73ADC4EA5EC0B.bin
+Data file not found: Data/Objects/Static/4A6F56A4772748B21089BBB6EF1C1C5C.bin
+Data file not found: Data/Objects/Static/0D3350FE558BC9429A2B63709B78BFA3.bin
+Data file not found: Data/Objects/Static/F5E50710316B217757C755410EB281A1.bin
+Data file not found: Data/Objects/Static/36007B5453B033D63F4AE460F37B26C7.bin
+Data file not found: Data/Objects/Static/EF829052B2A6B80050F1B4280ECB334D.bin
+Data file not found: Data/Objects/Static/74CDDB38E46629337DBEA81554E62D71.bin
+Data file not found: Data/Objects/Static/B183447A831D94F894554A9FD2771F8E.bin
+Data file not found: Data/Objects/Static/696B383FF83AEED6063077362D48971E.bin
+Data file not found: Data/Objects/Static/3CA419483AE1DAB14A70DDB830615B44.bin
+Data file not found: Data/Objects/Static/E36CD15BD26E016218C4CEA9BC7DE93E.bin
+Data file not found: Data/Objects/Static/568B5E3E25FDBDA48102464AB261D532.bin
+Data file not found: Data/Objects/Static/EEBB8C48C1DD7523A1A37B0F27B5E9CD.bin
+Data file not found: Data/Objects/Static/56087443493976B5843C29BB8FC368F0.bin
+Data file not found: Data/Objects/Static/8FB4C0AD0B123BE80673968F5663CBAF.bin
+Data file not found: Data/Objects/Static/52BA362D7ABBE4AB0D01E566F5FB0AE6.bin
+Data file not found: Data/Objects/Static/88F76BE5561D4852F0F689A940BDCAC5.bin
+Data file not found: Data/Objects/Static/454F26F5B055180CC743027B8BACEB62.bin
+Data file not found: Data/Objects/Static/31D2E4C0FED48034A2C9972DEC23DFF2.bin
+Data file not found: Data/Objects/Static/7D31E101EFE56A10AF975E5AF7FADE75.bin
+Data file not found: Data/Objects/Static/8559543EF7FDFF0C1E2E8A5F49132E04.bin
+Data file not found: Data/Objects/Static/67147595C78BCEDC91890B9B88AEDE0F.bin
+Data file not found: Data/Objects/Static/01A7E7D368052567796224C77510D353.bin
+Data file not found: Data/Objects/Static/F7543379EB760DF333B13FDCAD1BBD8B.bin
+Data file not found: Data/Objects/Static/609CD2D831928DA7B3EB65A4EDFD32ED.bin
+Data file not found: Data/Objects/Static/7C38DB50CD7E5D5045196C9ED9769613.bin
+Data file not found: Data/Objects/Static/6BE83DAD65E8CD27CDBBEC55BB12F1E4.bin
+Data file not found: Data/Objects/Static/FE85C0B21C60976CBCEE5B962D295687.bin
+Data file not found: Data/Objects/Static/EF2BB3FFEE7C60B0DB02D94D8D9125B6.bin
+Data file not found: Data/Objects/Static/56BEBE28547278986806EACA022CA3E2.bin
+Data file not found: Data/Objects/Static/C569C0389B678737F61E1BF7BB4A8576.bin
+Data file not found: Data/Objects/Static/26B2EA2FA89BB6C6A625A97F404BE306.bin
+Data file not found: Data/Objects/Static/ABDF8276B7DE4823A6245CAD207BABE9.bin
+Data file not found: Data/Objects/Static/205F91EB2AC7DCB03985B26EFDED3703.bin
+Data file not found: Data/Objects/Static/5F10C61D823D9366C38C0C0D1622CE00.bin
+Data file not found: Data/Objects/Static/DA11114BF889233933329721CFB373B1.bin
+Data file not found: Data/Objects/Static/60414E3F0F57EEB323EB9F177A3F5F3E.bin
+Data file not found: Data/Objects/Static/D69409768C660CE73DE6DACF44A30483.bin
+Data file not found: Data/Objects/Static/3BFDB7F45DEFD370074D3C270B8A844B.bin
+Data file not found: Data/Objects/Static/1F1D17D9BE1185B1B9C61DC5ABF2F25F.bin
+Data file not found: Data/Objects/Static/989C43E38CCE42E37D7798B2C63449A6.bin
+Data file not found: Data/Objects/Static/2B54CE55FA74C3776D6391F457783A65.bin
+Data file not found: Data/Objects/Static/F98E5BD202AB93AD1C9FD57DC889A131.bin
+Data file not found: Data/Objects/Static/C7E0F850FBF6FCE5D3E4FD1B4135A2B8.bin
+Data file not found: Data/Objects/Static/75ED2B0AA3042ABA0C56EA17E0907C47.bin
+Data file not found: Data/Objects/Static/6B9063BB3B500D179DB074C7825EE62C.bin
+Loaded data file Data/SoundFX/Special/Event.wav
+Loaded data file Data/SoundFX/VO/Sonic.wav
+Loaded data file Data/SoundFX/VO/Tails.wav
+Loaded data file Data/SoundFX/VO/Knuckles.wav
+Loaded data file Data/SoundFX/VO/Mighty.wav
+Loaded data file Data/SoundFX/VO/Ray.wav
+Loaded data file Data/SoundFX/VO/NewRecordMid.wav
+Loaded data file Data/SoundFX/VO/NewRecordTop.wav
+Loaded data file Data/SoundFX/VO/TheWinnerIs.wav
+Loaded data file Data/SoundFX/VO/Player1.wav
+Loaded data file Data/SoundFX/VO/Player2.wav
+Loaded data file Data/SoundFX/VO/Player3.wav
+Loaded data file Data/SoundFX/VO/Player4.wav
+Loaded data file Data/SoundFX/VO/ItsADraw.wav
+Loaded data file Data/SoundFX/VO/ItsADraw_Set.wav
+Loaded data file Data/SoundFX/Ruby/RedCube_L.wav
+Loaded data file Data/SoundFX/Ruby/RedCube_R.wav
+Loaded data file Data/SoundFX/Ruby/Attack1_L.wav
+Loaded data file Data/SoundFX/Ruby/Attack1_R.wav
+Loaded data file Data/SoundFX/VO/MightyWins.wav
+Loaded data file Data/SoundFX/VO/RayWins.wav
+Loaded data file Data/Stages/Menu/16x16Tiles.gif
+Loaded data file Data/Stages/Menu/Scene1.bin
+dataPtr: 9DCAB128
+optionsPtr->screenShader = 0
+optionsPtr->volMusic = 1024
+optionsPtr->volSfx = 1024
+optionsPtr->language = 0
+optionsPtr->overrideLanguage = 1
+optionsPtr->vsync = 0
+optionsPtr->tripleBuffering = 0
+optionsPtr->windowBorder = 0
+optionsPtr->windowed = 0
+optionsPtr->windowSize = 4
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+Loaded data file Data/Sprites/UI/UIElements.bin
+Loaded data file Data/Sprites/UI/UI.gif
+Loaded data file Data/Sprites/UI/SaveSelect.bin
+Loaded data file Data/Sprites/UI/SaveSelectEN.gif
+Loaded data file Data/Sprites/UI/Zones.gif
+Loaded data file Data/Sprites/UI/SmallFont.bin
+Loaded data file Data/Sprites/UI/SmallFont1.gif
+Loaded data file Data/Sprites/UI/SmallFont2.gif
+Apply Language 0
+Loaded data file Data/Sprites/UI/TextEN.bin
+Loaded data file Data/Sprites/UI/TextEN.gif
+Loaded data file Data/Sprites/UI/PauseEN.gif
+Loaded data file Data/Sprites/UI/TextPlusEN.gif
+Loaded data file Data/Sprites/UI/HeadingsEN.bin
+Loaded data file Data/Sprites/UI/HeadingsEN.gif
+Loaded data file Data/Sprites/UI/Picture.bin
+Loaded data file Data/Sprites/UI/Controllers.gif
+Loaded data file Data/Sprites/UI/MainIcons.bin
+Loaded data file Data/Sprites/UI/MainIcons.gif
+Loaded data file Data/Sprites/UI/Buttons.bin
+Loaded data file Data/Sprites/UI/Buttons.gif
+Menu recall ctrl: 
+DEV SKU
+US REGION
+Loaded data file Data/Sprites/UI/ButtonLabel.bin
+Loaded data file Data/Sprites/UI/WaitSpinner.bin
+Loaded data file Data/Sprites/UI/MedallionPanel.bin
+sfxDrawRound = 81
+sfxDrawSet = 82
+Loaded data file Data/Sprites/UI/Diorama.bin
+Loaded data file Data/Sprites/UI/Diorama.gif
+Loaded data file Data/Sprites/UI/Diorama2.gif
+Loaded data file Data/Sprites/AIZ/SchrodingersCapsule.bin
+Loaded data file Data/Sprites/AIZ/Objects2.gif
+Loaded data file Data/Sprites/Players/Sonic.bin
+Loaded data file Data/Sprites/Players/Sonic1.gif
+Loaded data file Data/Sprites/Players/Sonic2.gif
+Loaded data file Data/Sprites/Players/Sonic3.gif
+Loaded data file Data/Sprites/Players/Tails.bin
+Loaded data file Data/Sprites/Players/Tails1.gif
+Loaded data file Data/Sprites/Players/Tails2.gif
+Loaded data file Data/Sprites/Players/Tails3.gif
+Loaded data file Data/Sprites/Players/KnuxCutsceneAIZ.bin
+Loaded data file Data/Sprites/Players/Knux1.gif
+Loaded data file Data/Sprites/Players/KnuxCutsceneAIZ.gif
+Loaded data file Data/Sprites/Players/KnuxCutsceneHPZ.bin
+Loaded data file Data/Sprites/Players/KnuxCutsceneHPZ.gif
+Loaded data file Data/Sprites/Players/Mighty.bin
+Loaded data file Data/Sprites/Players/Mighty1.gif
+Loaded data file Data/Sprites/Players/Mighty2.gif
+Loaded data file Data/Sprites/Players/Mighty3.gif
+Loaded data file Data/Sprites/Players/Ray.bin
+Loaded data file Data/Sprites/Players/Ray1.gif
+Loaded data file Data/Sprites/Players/Ray2.gif
+Loaded data file Data/Sprites/Players/Ray3.gif
+Loaded data file Data/Sprites/Global/Ring.bin
+Loaded data file Data/Sprites/Global/Items.gif
+Loaded data file Data/Sprites/Global/SpeedGate.bin
+Loaded data file Data/Sprites/Global/Objects.gif
+Loaded data file Data/Sprites/SpecialBS/Sonic.bin
+Loaded data file Data/Sprites/SpecialBS/Players.gif
+Loaded data file Data/Sprites/SpecialBS/StageObjects.bin
+Loaded data file Data/Sprites/SpecialBS/Objects.gif
+Loaded data file Data/Sprites/Global/PhantomRuby.bin
+Loaded data file Data/Sprites/Global/PhantomRuby.gif
+Main Menu
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+Apply Language 0
+Loading Replay DB
+Attempting to load user file: ReplayDB.bin
+Nope!
+Load Failed! Creating new Replay DB
+Replay DB Slot => 0, Load Status => 200
+Attempting to load user file: SaveData.bin
+SaveLoadedCB(1)
+Blue Spheres ID rotated by 0 to 0
+=========================
+Game Progress:
+
+Emerald 0 => FALSE
+Emerald 1 => FALSE
+Emerald 2 => FALSE
+Emerald 3 => FALSE
+Emerald 4 => FALSE
+Emerald 5 => FALSE
+Emerald 6 => FALSE
+YOU'VE NOT ENOUGH EMERALDS!
+
+Zone 0 clear => FALSE
+Zone 1 clear => FALSE
+Zone 2 clear => FALSE
+Zone 3 clear => FALSE
+Zone 4 clear => FALSE
+Zone 5 clear => FALSE
+Zone 6 clear => FALSE
+Zone 7 clear => FALSE
+Zone 8 clear => FALSE
+Zone 9 clear => FALSE
+Zone 10 clear => FALSE
+Zone 11 clear => FALSE
+NO ENDING!
+
+Medallion 0 => NULL
+Medallion 1 => NULL
+Medallion 2 => NULL
+Medallion 3 => NULL
+Medallion 4 => NULL
+Medallion 5 => NULL
+Medallion 6 => NULL
+Medallion 7 => NULL
+Medallion 8 => NULL
+Medallion 9 => NULL
+Medallion 10 => NULL
+Medallion 11 => NULL
+Medallion 12 => NULL
+Medallion 13 => NULL
+Medallion 14 => NULL
+Medallion 15 => NULL
+Medallion 16 => NULL
+Medallion 17 => NULL
+Medallion 18 => NULL
+Medallion 19 => NULL
+Medallion 20 => NULL
+Medallion 21 => NULL
+Medallion 22 => NULL
+Medallion 23 => NULL
+Medallion 24 => NULL
+Medallion 25 => NULL
+Medallion 26 => NULL
+Medallion 27 => NULL
+Medallion 28 => NULL
+Medallion 29 => NULL
+Medallion 30 => NULL
+Medallion 31 => NULL
+GOLD COUNT: 0
+SILVER COUNT: 0
+
+=========================
+Loading Time Attack DB
+Attempting to load user file: TimeAttackDB.bin
+Nope!
+Load Failed! Creating new Time Attack DB
+===========================
+Migrating Legacy TA Data...
+===========================
+Replay DB Slot => 1, Load Status => 200
+C:\Users\Xande\RSDKv5-Decompilation\RSDKv5\RSDK\User\Dummy\DummyPresence.cpp: SetPresence() # Set Steam rich presence string to Navigating Menu
+
+ManiaModeMenu_Initialize()
+ManiaModeMenu_Initialize()
+ManiaModeMenu_Initialize()
+IntegerGeorge802
+Loaded data file Data/Music/MainMenu.ogg
+Loading Scene "Presentation - Title Screen" with filter 255
+Data file not found: Data/Stages/Title/TileConfig.bin
+Loaded data file Data/Stages/Title/StageConfig.bin
+Data file not found: Data/Objects/Static/A0E52DC0A4AC416C03FA533409F51C9B.bin
+Data file not found: Data/Objects/Static/63696833C1395DE585471441C3DC4F72.bin
+Data file not found: Data/Objects/Static/07DCE54EFCF9D7BEE828E774EB4BE2F9.bin
+Data file not found: Data/Objects/Static/8ECD6FF5D03E9FED8544AB52BE40019B.bin
+Data file not found: Data/Objects/Static/0AAE8F292B792056F8F0915FEBBF1659.bin
+Data file not found: Data/Objects/Static/74CDDB38E46629337DBEA81554E62D71.bin
+Data file not found: Data/Objects/Static/D28A3CCCD0726158AA675387915105D3.bin
+Data file not found: Data/Objects/Static/5BA586E9B9B81D7DD4333EF82772A1E5.bin
+Data file not found: Data/Objects/Static/E831CC9701815FF2C9EE663833A5D83E.bin
+Loaded data file Data/SoundFX/Stage/Plus.wav
+Loaded data file Data/Stages/Title/16x16Tiles.gif
+Loaded data file Data/Stages/Title/Scene1.bin
+Object Class 2 is unimplemented!
+Object Class 3 is unimplemented!
+Object Class 11 is unimplemented!
+dataPtr: 9DCAB128
+optionsPtr->screenShader = 0
+optionsPtr->volMusic = 1024
+optionsPtr->volSfx = 1024
+optionsPtr->language = 0
+optionsPtr->overrideLanguage = 1
+optionsPtr->vsync = 0
+optionsPtr->tripleBuffering = 0
+optionsPtr->windowBorder = 0
+optionsPtr->windowed = 0
+optionsPtr->windowSize = 4
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+C:\Users\Xande\RSDKv5-Decompilation\RSDKv5\RSDK\User\Dummy\DummyPresence.cpp: SetPresence() # Set Steam rich presence string to At the Title Screen
+
+Loaded data file Data/Sprites/Title/Electricity.bin
+Loaded data file Data/Sprites/Title/Electricity1.gif
+Loaded data file Data/Sprites/Title/Electricity2.gif
+Loaded data file Data/Sprites/Title/Logo.bin
+Loaded data file Data/Sprites/Title/Logo.gif
+Loaded data file Data/Sprites/Title/PlusLogo.bin
+Loaded data file Data/Sprites/Title/PlusLogo.gif
+Loaded data file Data/Sprites/Title/Sonic.bin
+Loaded data file Data/Sprites/Title/Sonic.gif
+Loaded data file Data/Sprites/Title/Background.bin
+Loaded data file Data/Sprites/Title/BG.gif
+Loaded data file Data/Music/TitleScreen.ogg
+Loading Scene "Presentation - Menu" with filter 255
+Loaded data file Data/Stages/Menu/TileConfig.bin
+Loaded data file Data/Stages/Menu/StageConfig.bin
+Data file not found: Data/Objects/Static/A0E52DC0A4AC416C03FA533409F51C9B.bin
+Data file not found: Data/Objects/Static/9FA409F23B2AD7FDC42D93A6A247EB4A.bin
+Data file not found: Data/Objects/Static/63696833C1395DE585471441C3DC4F72.bin
+Data file not found: Data/Objects/Static/41ABD15D2DB188CB9D247246CD292B6D.bin
+Loaded data file Data/Objects/Static/BD3DF348C7BC63FF3F5529F2E33F9CFE.bin
+Data file not found: Data/Objects/Static/3E0C08BADFF21084B7C14BD2F3DDB36F.bin
+Data file not found: Data/Objects/Static/562BA59ECFD84BCA37086ED821188E27.bin
+Data file not found: Data/Objects/Static/4259398BD7A1FE638342BD76738703DE.bin
+Data file not found: Data/Objects/Static/C626F7AC50103D2F03D73ADC4EA5EC0B.bin
+Data file not found: Data/Objects/Static/4A6F56A4772748B21089BBB6EF1C1C5C.bin
+Data file not found: Data/Objects/Static/0D3350FE558BC9429A2B63709B78BFA3.bin
+Data file not found: Data/Objects/Static/F5E50710316B217757C755410EB281A1.bin
+Data file not found: Data/Objects/Static/36007B5453B033D63F4AE460F37B26C7.bin
+Data file not found: Data/Objects/Static/EF829052B2A6B80050F1B4280ECB334D.bin
+Data file not found: Data/Objects/Static/74CDDB38E46629337DBEA81554E62D71.bin
+Data file not found: Data/Objects/Static/B183447A831D94F894554A9FD2771F8E.bin
+Data file not found: Data/Objects/Static/696B383FF83AEED6063077362D48971E.bin
+Data file not found: Data/Objects/Static/3CA419483AE1DAB14A70DDB830615B44.bin
+Data file not found: Data/Objects/Static/E36CD15BD26E016218C4CEA9BC7DE93E.bin
+Data file not found: Data/Objects/Static/568B5E3E25FDBDA48102464AB261D532.bin
+Data file not found: Data/Objects/Static/EEBB8C48C1DD7523A1A37B0F27B5E9CD.bin
+Data file not found: Data/Objects/Static/56087443493976B5843C29BB8FC368F0.bin
+Data file not found: Data/Objects/Static/8FB4C0AD0B123BE80673968F5663CBAF.bin
+Data file not found: Data/Objects/Static/52BA362D7ABBE4AB0D01E566F5FB0AE6.bin
+Data file not found: Data/Objects/Static/88F76BE5561D4852F0F689A940BDCAC5.bin
+Data file not found: Data/Objects/Static/454F26F5B055180CC743027B8BACEB62.bin
+Data file not found: Data/Objects/Static/31D2E4C0FED48034A2C9972DEC23DFF2.bin
+Data file not found: Data/Objects/Static/7D31E101EFE56A10AF975E5AF7FADE75.bin
+Data file not found: Data/Objects/Static/8559543EF7FDFF0C1E2E8A5F49132E04.bin
+Data file not found: Data/Objects/Static/67147595C78BCEDC91890B9B88AEDE0F.bin
+Data file not found: Data/Objects/Static/01A7E7D368052567796224C77510D353.bin
+Data file not found: Data/Objects/Static/F7543379EB760DF333B13FDCAD1BBD8B.bin
+Data file not found: Data/Objects/Static/609CD2D831928DA7B3EB65A4EDFD32ED.bin
+Data file not found: Data/Objects/Static/7C38DB50CD7E5D5045196C9ED9769613.bin
+Data file not found: Data/Objects/Static/6BE83DAD65E8CD27CDBBEC55BB12F1E4.bin
+Data file not found: Data/Objects/Static/FE85C0B21C60976CBCEE5B962D295687.bin
+Data file not found: Data/Objects/Static/EF2BB3FFEE7C60B0DB02D94D8D9125B6.bin
+Data file not found: Data/Objects/Static/56BEBE28547278986806EACA022CA3E2.bin
+Data file not found: Data/Objects/Static/C569C0389B678737F61E1BF7BB4A8576.bin
+Data file not found: Data/Objects/Static/26B2EA2FA89BB6C6A625A97F404BE306.bin
+Data file not found: Data/Objects/Static/ABDF8276B7DE4823A6245CAD207BABE9.bin
+Data file not found: Data/Objects/Static/205F91EB2AC7DCB03985B26EFDED3703.bin
+Data file not found: Data/Objects/Static/5F10C61D823D9366C38C0C0D1622CE00.bin
+Data file not found: Data/Objects/Static/DA11114BF889233933329721CFB373B1.bin
+Data file not found: Data/Objects/Static/60414E3F0F57EEB323EB9F177A3F5F3E.bin
+Data file not found: Data/Objects/Static/D69409768C660CE73DE6DACF44A30483.bin
+Data file not found: Data/Objects/Static/3BFDB7F45DEFD370074D3C270B8A844B.bin
+Data file not found: Data/Objects/Static/1F1D17D9BE1185B1B9C61DC5ABF2F25F.bin
+Data file not found: Data/Objects/Static/989C43E38CCE42E37D7798B2C63449A6.bin
+Data file not found: Data/Objects/Static/2B54CE55FA74C3776D6391F457783A65.bin
+Data file not found: Data/Objects/Static/F98E5BD202AB93AD1C9FD57DC889A131.bin
+Data file not found: Data/Objects/Static/C7E0F850FBF6FCE5D3E4FD1B4135A2B8.bin
+Data file not found: Data/Objects/Static/75ED2B0AA3042ABA0C56EA17E0907C47.bin
+Data file not found: Data/Objects/Static/6B9063BB3B500D179DB074C7825EE62C.bin
+Loaded data file Data/SoundFX/Special/Event.wav
+Loaded data file Data/SoundFX/VO/Sonic.wav
+Loaded data file Data/SoundFX/VO/Tails.wav
+Loaded data file Data/SoundFX/VO/Knuckles.wav
+Loaded data file Data/SoundFX/VO/Mighty.wav
+Loaded data file Data/SoundFX/VO/Ray.wav
+Loaded data file Data/SoundFX/VO/NewRecordMid.wav
+Loaded data file Data/SoundFX/VO/NewRecordTop.wav
+Loaded data file Data/SoundFX/VO/TheWinnerIs.wav
+Loaded data file Data/SoundFX/VO/Player1.wav
+Loaded data file Data/SoundFX/VO/Player2.wav
+Loaded data file Data/SoundFX/VO/Player3.wav
+Loaded data file Data/SoundFX/VO/Player4.wav
+Loaded data file Data/SoundFX/VO/ItsADraw.wav
+Loaded data file Data/SoundFX/VO/ItsADraw_Set.wav
+Loaded data file Data/SoundFX/Ruby/RedCube_L.wav
+Loaded data file Data/SoundFX/Ruby/RedCube_R.wav
+Loaded data file Data/SoundFX/Ruby/Attack1_L.wav
+Loaded data file Data/SoundFX/Ruby/Attack1_R.wav
+Loaded data file Data/SoundFX/VO/MightyWins.wav
+Loaded data file Data/SoundFX/VO/RayWins.wav
+Loaded data file Data/Stages/Menu/16x16Tiles.gif
+Loaded data file Data/Stages/Menu/Scene1.bin
+dataPtr: 9DCAB128
+optionsPtr->screenShader = 0
+optionsPtr->volMusic = 1024
+optionsPtr->volSfx = 1024
+optionsPtr->language = 0
+optionsPtr->overrideLanguage = 1
+optionsPtr->vsync = 0
+optionsPtr->tripleBuffering = 0
+optionsPtr->windowBorder = 0
+optionsPtr->windowed = 0
+optionsPtr->windowSize = 4
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+Loaded data file Data/Sprites/UI/UIElements.bin
+Loaded data file Data/Sprites/UI/UI.gif
+Loaded data file Data/Sprites/UI/SaveSelect.bin
+Loaded data file Data/Sprites/UI/SaveSelectEN.gif
+Loaded data file Data/Sprites/UI/Zones.gif
+Loaded data file Data/Sprites/UI/SmallFont.bin
+Loaded data file Data/Sprites/UI/SmallFont1.gif
+Loaded data file Data/Sprites/UI/SmallFont2.gif
+Apply Language 0
+Loaded data file Data/Sprites/UI/TextEN.bin
+Loaded data file Data/Sprites/UI/TextEN.gif
+Loaded data file Data/Sprites/UI/PauseEN.gif
+Loaded data file Data/Sprites/UI/TextPlusEN.gif
+Loaded data file Data/Sprites/UI/HeadingsEN.bin
+Loaded data file Data/Sprites/UI/HeadingsEN.gif
+Loaded data file Data/Sprites/UI/Picture.bin
+Loaded data file Data/Sprites/UI/Controllers.gif
+Loaded data file Data/Sprites/UI/MainIcons.bin
+Loaded data file Data/Sprites/UI/MainIcons.gif
+Loaded data file Data/Sprites/UI/Buttons.bin
+Loaded data file Data/Sprites/UI/Buttons.gif
+Menu recall ctrl: 
+DEV SKU
+US REGION
+Loaded data file Data/Sprites/UI/ButtonLabel.bin
+Loaded data file Data/Sprites/UI/WaitSpinner.bin
+Loaded data file Data/Sprites/UI/MedallionPanel.bin
+sfxDrawRound = 81
+sfxDrawSet = 82
+Loaded data file Data/Sprites/UI/Diorama.bin
+Loaded data file Data/Sprites/UI/Diorama.gif
+Loaded data file Data/Sprites/UI/Diorama2.gif
+Loaded data file Data/Sprites/AIZ/SchrodingersCapsule.bin
+Loaded data file Data/Sprites/AIZ/Objects2.gif
+Loaded data file Data/Sprites/Players/Sonic.bin
+Loaded data file Data/Sprites/Players/Sonic1.gif
+Loaded data file Data/Sprites/Players/Sonic2.gif
+Loaded data file Data/Sprites/Players/Sonic3.gif
+Loaded data file Data/Sprites/Players/Tails.bin
+Loaded data file Data/Sprites/Players/Tails1.gif
+Loaded data file Data/Sprites/Players/Tails2.gif
+Loaded data file Data/Sprites/Players/Tails3.gif
+Loaded data file Data/Sprites/Players/KnuxCutsceneAIZ.bin
+Loaded data file Data/Sprites/Players/Knux1.gif
+Loaded data file Data/Sprites/Players/KnuxCutsceneAIZ.gif
+Loaded data file Data/Sprites/Players/KnuxCutsceneHPZ.bin
+Loaded data file Data/Sprites/Players/KnuxCutsceneHPZ.gif
+Loaded data file Data/Sprites/Players/Mighty.bin
+Loaded data file Data/Sprites/Players/Mighty1.gif
+Loaded data file Data/Sprites/Players/Mighty2.gif
+Loaded data file Data/Sprites/Players/Mighty3.gif
+Loaded data file Data/Sprites/Players/Ray.bin
+Loaded data file Data/Sprites/Players/Ray1.gif
+Loaded data file Data/Sprites/Players/Ray2.gif
+Loaded data file Data/Sprites/Players/Ray3.gif
+Loaded data file Data/Sprites/Global/Ring.bin
+Loaded data file Data/Sprites/Global/Items.gif
+Loaded data file Data/Sprites/Global/SpeedGate.bin
+Loaded data file Data/Sprites/Global/Objects.gif
+Loaded data file Data/Sprites/SpecialBS/Sonic.bin
+Loaded data file Data/Sprites/SpecialBS/Players.gif
+Loaded data file Data/Sprites/SpecialBS/StageObjects.bin
+Loaded data file Data/Sprites/SpecialBS/Objects.gif
+Loaded data file Data/Sprites/Global/PhantomRuby.bin
+Loaded data file Data/Sprites/Global/PhantomRuby.gif
+Main Menu
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+Apply Language 0
+Loading Replay DB
+Attempting to load user file: ReplayDB.bin
+Nope!
+Load Failed! Creating new Replay DB
+Replay DB Slot => 0, Load Status => 200
+Attempting to load user file: SaveData.bin
+SaveLoadedCB(1)
+Blue Spheres ID rotated by 0 to 0
+=========================
+Game Progress:
+
+Emerald 0 => FALSE
+Emerald 1 => FALSE
+Emerald 2 => FALSE
+Emerald 3 => FALSE
+Emerald 4 => FALSE
+Emerald 5 => FALSE
+Emerald 6 => FALSE
+YOU'VE NOT ENOUGH EMERALDS!
+
+Zone 0 clear => FALSE
+Zone 1 clear => FALSE
+Zone 2 clear => FALSE
+Zone 3 clear => FALSE
+Zone 4 clear => FALSE
+Zone 5 clear => FALSE
+Zone 6 clear => FALSE
+Zone 7 clear => FALSE
+Zone 8 clear => FALSE
+Zone 9 clear => FALSE
+Zone 10 clear => FALSE
+Zone 11 clear => FALSE
+NO ENDING!
+
+Medallion 0 => NULL
+Medallion 1 => NULL
+Medallion 2 => NULL
+Medallion 3 => NULL
+Medallion 4 => NULL
+Medallion 5 => NULL
+Medallion 6 => NULL
+Medallion 7 => NULL
+Medallion 8 => NULL
+Medallion 9 => NULL
+Medallion 10 => NULL
+Medallion 11 => NULL
+Medallion 12 => NULL
+Medallion 13 => NULL
+Medallion 14 => NULL
+Medallion 15 => NULL
+Medallion 16 => NULL
+Medallion 17 => NULL
+Medallion 18 => NULL
+Medallion 19 => NULL
+Medallion 20 => NULL
+Medallion 21 => NULL
+Medallion 22 => NULL
+Medallion 23 => NULL
+Medallion 24 => NULL
+Medallion 25 => NULL
+Medallion 26 => NULL
+Medallion 27 => NULL
+Medallion 28 => NULL
+Medallion 29 => NULL
+Medallion 30 => NULL
+Medallion 31 => NULL
+GOLD COUNT: 0
+SILVER COUNT: 0
+
+=========================
+Loading Time Attack DB
+Attempting to load user file: TimeAttackDB.bin
+Nope!
+Load Failed! Creating new Time Attack DB
+===========================
+Migrating Legacy TA Data...
+===========================
+Replay DB Slot => 1, Load Status => 200
+C:\Users\Xande\RSDKv5-Decompilation\RSDKv5\RSDK\User\Dummy\DummyPresence.cpp: SetPresence() # Set Steam rich presence string to Navigating Menu
+
+ManiaModeMenu_Initialize()
+ManiaModeMenu_Initialize()
+ManiaModeMenu_Initialize()
+IntegerGeorge802
+Loaded data file Data/Music/MainMenu.ogg
+Save Select
+Loaded data file Data/Music/SaveSelect.ogg
+playerID = 3, zoneID = 0, act = 0
+listPos = 0
+Attempting to save user file: SaveData.bin
+Loading Scene "Mania Mode - Green Hill Zone 1" with filter 3
+Loaded data file Data/Stages/GHZ/TileConfig.bin
+Loaded data file Data/Stages/GHZ/StageConfig.bin
+Data file not found: Data/Objects/Static/A0E52DC0A4AC416C03FA533409F51C9B.bin
+Data file not found: Data/Objects/Static/9FA409F23B2AD7FDC42D93A6A247EB4A.bin
+Data file not found: Data/Objects/Static/63696833C1395DE585471441C3DC4F72.bin
+Data file not found: Data/Objects/Static/3BFF99F65E7C670153194138B5FAB983.bin
+Data file not found: Data/Objects/Static/AC09A42715F4EE7EE3E32FD51979E83C.bin
+Data file not found: Data/Objects/Static/989C43E38CCE42E37D7798B2C63449A6.bin
+Data file not found: Data/Objects/Static/69D7534EF0F3591B5F83DB426804FBB3.bin
+Data file not found: Data/Objects/Static/2D8DC4F14C2F5D5D1F4CB3BD92CD32F6.bin
+Data file not found: Data/Objects/Static/536980065DDFA9C30AA21DA617983E00.bin
+Loaded data file Data/Objects/Static/36D61A3DE508B500AE0ECF8D33F32943.bin
+Data file not found: Data/Objects/Static/74CDDB38E46629337DBEA81554E62D71.bin
+Data file not found: Data/Objects/Static/EFE2039FDAD48C7F4054D7BF9D7C28DE.bin
+Data file not found: Data/Objects/Static/4DBD71C74937B827FBC96EE189A81B1F.bin
+Data file not found: Data/Objects/Static/89A6167B9E7976DFD2B67F22B44EC733.bin
+Data file not found: Data/Objects/Static/79D05A1F2F3EA2BEE984D80D7161A04B.bin
+Data file not found: Data/Objects/Static/4C8B9EC9C186BC01DAACA081C69F011B.bin
+Data file not found: Data/Objects/Static/4BE02ABEFD4A3A9057EF467BF84ADA14.bin
+Data file not found: Data/Objects/Static/8300D88DC1F2D49758CE6F0EECA81F1D.bin
+Data file not found: Data/Objects/Static/7E5F1F9A17E1865B802B86B034A44350.bin
+Data file not found: Data/Objects/Static/2042A1C4CBE1023AE91534DF6BDAA5B8.bin
+Data file not found: Data/Objects/Static/17E35ADD361E13009DB0227FD5D24A8F.bin
+Data file not found: Data/Objects/Static/B8F5DAE23FBA0820344991536004A772.bin
+Data file not found: Data/Objects/Static/E7A496B3EF81927826F63214938ACD38.bin
+Data file not found: Data/Objects/Static/A8630C6DCCE21399E04ABFD295D79B86.bin
+Data file not found: Data/Objects/Static/A0B8DB7E3CE18003954A4AAA27E78969.bin
+Data file not found: Data/Objects/Static/ED4339AEE6C71B25C999229E5E10AF8F.bin
+Data file not found: Data/Objects/Static/71D82C54214A91906BCAE81696E123DC.bin
+Loaded data file Data/Objects/Static/33B8E672A1DEA5654AF81AEF98BDAA6F.bin
+Data file not found: Data/Objects/Static/DBB27E917B3CA46A84F1B069B503B3FF.bin
+Data file not found: Data/Objects/Static/2158CF7C8BEFB7209E223B51C1723E5D.bin
+Data file not found: Data/Objects/Static/14AEC7EF1E30D0261A7EB50905A02C51.bin
+Data file not found: Data/Objects/Static/F843B77CECCB9AAFD6797EC0B62CE93B.bin
+Data file not found: Data/Objects/Static/111132C9CE3446FDE9228FDDF84C74FA.bin
+Data file not found: Data/Objects/Static/D7324745C74349221A103A01B0D02ACD.bin
+Data file not found: Data/Objects/Static/6AAE98F3CDE67017FFD64120A8D6F7E3.bin
+Data file not found: Data/Objects/Static/9F08353F8E3BFFFDE5A6D008F0F2807C.bin
+Data file not found: Data/Objects/Static/B1EDED8A6CBC66D4D42C8FC02468DDC2.bin
+Data file not found: Data/Objects/Static/28ACF2D1F78E89176D8C97048E91A08F.bin
+Data file not found: Data/Objects/Static/3E0C08BADFF21084B7C14BD2F3DDB36F.bin
+Data file not found: Data/Objects/Static/41ABD15D2DB188CB9D247246CD292B6D.bin
+Data file not found: Data/Objects/Static/4A6F56A4772748B21089BBB6EF1C1C5C.bin
+Data file not found: Data/Objects/Static/EEBB8C48C1DD7523A1A37B0F27B5E9CD.bin
+Data file not found: Data/Objects/Static/609CD2D831928DA7B3EB65A4EDFD32ED.bin
+Data file not found: Data/Objects/Static/6BE83DAD65E8CD27CDBBEC55BB12F1E4.bin
+Data file not found: Data/Objects/Static/24F1CCDBF3067F6EC99580BB8A6D58B0.bin
+Data file not found: Data/Objects/Static/F504BF4EE7CB9A185EB40C08D560CFC6.bin
+Data file not found: Data/Objects/Static/42CF24E1426E7B9E23035499E6787CDE.bin
+Loaded data file Data/Objects/Static/0A95413EF896999B1B5DCAFD19F07F90.bin
+Data file not found: Data/Objects/Static/0EC7B430528B13E577C8BC3C532DCEE1.bin
+Data file not found: Data/Objects/Static/14F973246EEDE8E04C2BC2EC00E56703.bin
+Data file not found: Data/Objects/Static/CEF7F68D59AE519EA3CF04F1E2878301.bin
+Loaded data file Data/Objects/Static/09F50C61464BCFA45F26511A29FB1145.bin
+Data file not found: Data/Objects/Static/C7163644B01C1A24DABF2A7869BB483E.bin
+Data file not found: Data/Objects/Static/4263754921E0308B70CADB500C4AD89B.bin
+Data file not found: Data/Objects/Static/ED58407BE32A820DAEB9CB6E792590E2.bin
+Data file not found: Data/Objects/Static/3F0741F2F7ADE1B1122B272FAB7D6CFB.bin
+Data file not found: Data/Objects/Static/A3D5C71723A2814E6E4B2FEB74BBE55E.bin
+Data file not found: Data/Objects/Static/0138579B29EB4A1B3A62BF7908F16C51.bin
+Data file not found: Data/Objects/Static/A47D53306BC3F0B223A514259807C9E1.bin
+Data file not found: Data/Objects/Static/10A261B83A2B290EE6F3D30D0E60310A.bin
+Data file not found: Data/Objects/Static/0E08D772FA423413243C8CCAD05428A5.bin
+Data file not found: Data/Objects/Static/4A51376F709C42866CFD1859B5D2E4B3.bin
+Loaded data file Data/Objects/Static/575130A718E77F70E8BDE0B5822855C5.bin
+Data file not found: Data/Objects/Static/F793DB9A5312977FC9BDA1411DD80621.bin
+Data file not found: Data/Objects/Static/2F62F1352C783F2C2F08E51EFDF20191.bin
+Data file not found: Data/Objects/Static/BA443C31F46AF516F3A2C921D3BFC08B.bin
+Data file not found: Data/Objects/Static/D1D39D973D5C0A98BF97F3A1AE0F2C0A.bin
+Loaded data file Data/Objects/Static/7236F48F00B2217ED5890EC7DC00D581.bin
+Loaded data file Data/Objects/Static/CA2737FBD52AA1BEF679748AC30DBFAE.bin
+Data file not found: Data/Objects/Static/9B9CFE165A9122D3EF4998E895F930F0.bin
+Data file not found: Data/Objects/Static/F5965D3A1872E078AFE18A12F4F7F4D1.bin
+Data file not found: Data/Objects/Static/D8CBF2A6E3177F16D812B591781C87EB.bin
+Data file not found: Data/Objects/Static/9D943EDCDDE5AF015467F53091DA33B7.bin
+Data file not found: Data/Objects/Static/99FF5932B54958FB64F5D5676D244D4B.bin
+Data file not found: Data/Objects/Static/EB5E8EAC13CCFAD91D27BED80040EF03.bin
+Data file not found: Data/Objects/Static/08E2E0B1B937DF5B141798E516E3E526.bin
+Loaded data file Data/SoundFX/Stage/LedgeBreak.wav
+Loaded data file Data/SoundFX/Stage/BossHit.wav
+Loaded data file Data/SoundFX/Stage/Explosion2.wav
+Loaded data file Data/SoundFX/Stage/Drop.wav
+Loaded data file Data/SoundFX/Stage/Flap.wav
+Loaded data file Data/SoundFX/Stage/Splash.wav
+Loaded data file Data/SoundFX/Stage/Assemble.wav
+Loaded data file Data/SoundFX/Stage/Sharp.wav
+Loaded data file Data/SoundFX/Stage/Rotate.wav
+Loaded data file Data/SoundFX/Stage/Impact2.wav
+Loaded data file Data/SoundFX/Stage/Targeting1.wav
+Loaded data file Data/SoundFX/Stage/Buzzsaw.wav
+Loaded data file Data/SoundFX/Stage/Button2.wav
+Loaded data file Data/SoundFX/Stage/HullClose.wav
+Loaded data file Data/SoundFX/Stage/Warning.wav
+Loaded data file Data/SoundFX/Stage/Drown.wav
+Loaded data file Data/SoundFX/Stage/DrownAlert.wav
+Loaded data file Data/SoundFX/Stage/WaterfallLoop.wav
+Loaded data file Data/Stages/GHZ/16x16Tiles.gif
+Loaded data file Data/Stages/GHZ/Scene1.bin
+dataPtr: 9DC9B124
+optionsPtr->screenShader = 0
+optionsPtr->volMusic = 1024
+optionsPtr->volSfx = 1024
+optionsPtr->language = 0
+optionsPtr->overrideLanguage = 1
+optionsPtr->vsync = 0
+optionsPtr->tripleBuffering = 0
+optionsPtr->windowBorder = 0
+optionsPtr->windowed = 0
+optionsPtr->windowSize = 4
+Loading EN strings...
+Loaded data file Data/Strings/StringsEN.txt
+C:\Users\Xande\RSDKv5-Decompilation\RSDKv5\RSDK\User\Dummy\DummyPresence.cpp: SetPresence() # Set Steam rich presence string to Playing Mania Mode
+
+Loaded data file Data/Sprites/Global/TitleCard.bin
+Loaded data file Data/Sprites/Global/Display.gif
+Loaded data file Data/Sprites/Global/HUD.bin
+Loaded data file Data/Sprites/Global/SuperButtons.bin
+Loaded data file Data/Sprites/Global/SuperButtons.gif
+Loaded data file Data/Sprites/Players/Knux.bin
+Loaded data file Data/Sprites/Players/Knux1.gif
+Loaded data file Data/Sprites/Players/Knux2.gif
+Loaded data file Data/Sprites/Players/Knux3.gif
+Loaded data file Data/Sprites/Global/Ring.bin
+Loaded data file Data/Sprites/Global/Items.gif
+Loaded data file Data/Sprites/Global/ItemBox.bin
+Loaded data file Data/Sprites/Global/Shields.bin
+Loaded data file Data/Sprites/Global/Shields.gif
+Loaded data file Data/Sprites/Global/Objects3.gif
+Loaded data file Data/Sprites/Global/Invincible.bin
+Loaded data file Data/Sprites/Global/Springs.bin
+Loaded data file Data/Sprites/Global/Objects.gif
+Loaded data file Data/Sprites/Global/StarPost.bin
+Loaded data file Data/Sprites/Global/SpeedGate.bin
+Loaded data file Data/Sprites/Global/Spikes.bin
+Loaded data file Data/Sprites/Global/PlaneSwitch.bin
+Loaded data file Data/Sprites/Global/Explosions.bin
+Loaded data file Data/Sprites/Global/Explosions.gif
+Loaded data file Data/Sprites/Global/ScoreBonus.bin
+Loaded data file Data/Sprites/Global/Dust.bin
+Loaded data file Data/Sprites/Global/Animals.bin
+Loaded data file Data/Sprites/Global/Animals.gif
+Loaded data file Data/Sprites/Global/SignPost.bin
+Loaded data file Data/Sprites/Global/Objects2.gif
+Loaded data file Data/Sprites/Global/EggPrison.bin
+Loaded data file Data/Sprites/Global/SpecialRing.bin
+Loaded data file Data/Meshes/Global/SpecialRing.bin
+Loaded data file Data/Sprites/UI/UIElements.bin
+Loaded data file Data/Sprites/UI/UI.gif
+Loaded data file Data/Sprites/UI/SaveSelect.bin
+Loaded data file Data/Sprites/UI/SaveSelectEN.gif
+Loaded data file Data/Sprites/UI/Zones.gif
+Loaded data file Data/Sprites/UI/SmallFont.bin
+Loaded data file Data/Sprites/UI/SmallFont1.gif
+Loaded data file Data/Sprites/UI/SmallFont2.gif
+Apply Language 0
+Loaded data file Data/Sprites/UI/TextEN.bin
+Loaded data file Data/Sprites/UI/TextEN.gif
+Loaded data file Data/Sprites/UI/PauseEN.gif
+Loaded data file Data/Sprites/UI/TextPlusEN.gif
+Loaded data file Data/Sprites/UI/WaitSpinner.bin
+Loaded data file Data/Sprites/Global/SuperSparkle.bin
+Loaded data file Data/Sprites/GHZ/AniTiles.gif
+Loaded data file Data/Sprites/GHZ/Platform.bin
+Loaded data file Data/Sprites/GHZ/Objects.gif
+Loaded data file Data/Sprites/Global/TicMark.bin
+Loaded data file Data/Sprites/GHZ/CheckerBall.bin
+Loaded data file Data/Sprites/GHZ/Ball.gif
+Loaded data file Data/Sprites/GHZ/Decoration.bin
+Loaded data file Data/Sprites/GHZ/Bridge.bin
+Loaded data file Data/Sprites/GHZ/Motobug.bin
+Loaded data file Data/Sprites/GHZ/BuzzBomber.bin
+Loaded data file Data/Sprites/GHZ/Crabmeat.bin
+Loaded data file Data/Sprites/GHZ/Newtron.bin
+Loaded data file Data/Sprites/GHZ/Splats.bin
+Loaded data file Data/Sprites/GHZ/Chopper.bin
+Loaded data file Data/Sprites/GHZ/Batbrain.bin
+Loaded data file Data/Sprites/GHZ/SpikeLog.bin
+Loaded data file Data/Sprites/GHZ/Fireball.bin
+Loaded data file Data/Sprites/GHZ/Objects2.gif
+Loaded data file Data/Sprites/GHZ/ZipLine.bin
+Loaded data file Data/Sprites/Global/Water.bin
+Loaded data file Data/Sprites/Global/Water.gif
+Loaded data file Data/Sprites/GHZ/DDWrecker.bin
+Loaded data file Data/Sprites/GHZ/DDWrecker.gif
+Loaded data file Data/Sprites/GHZ/DERobot.bin
+Loaded data file Data/Sprites/GHZ/DERobot.gif
+Loaded data file Data/Sprites/Eggman/EggmanAll.bin
+Loaded data file Data/Sprites/Eggman/EggmanStand1.gif
+Loaded data file Data/Sprites/Eggman/EggmanStand2.gif
+Loaded data file Data/Sprites/Eggman/EggmanPopup.gif
+Loaded data file Data/Sprites/Eggman/EggmanButton.gif
+Loaded data file Data/Music/GreenHill1.ogg
+Loaded data file Data/Music/Super.ogg
+C:\Users\Xande\RSDKv5-Decompilation\RSDKv5\RSDK\User\Dummy\DummyStats.cpp: TrackStat() # TrackStat ENEMY_DEFEAT 
+
+DUMMY TrackEnemyDefeat(GHZ, Act 1, Knuckles, false, 124, 1560)
+C:\Users\Xande\RSDKv5-Decompilation\RSDKv5\RSDK\User\Dummy\DummyStats.cpp: TrackStat() # TrackStat ENEMY_DEFEAT 
+
+DUMMY TrackEnemyDefeat(GHZ, Act 1, Knuckles, false, 104, 1584)
+Loaded data file Data/Music/1up.ogg
+Loaded data file Data/Music/Super.ogg
+Attempting to save user file: Achievements.bin
