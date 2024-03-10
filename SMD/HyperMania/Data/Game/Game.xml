@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<game>
+	<objects>
+		<object name="FXFade" />
+		<object name="HyperStars" />
+		<object name="SuperFlicky" />
+		<object name="JetGlideEffect" />
+	</objects>
+	<sounds>
+		<soundfx path="Global/FlickyFlee.wav" />
+		<soundfx path="Global/JetGlide.wav" />
+		<soundfx path="Stage/Impact2.wav" />
+		<soundfx path="Stage/Impact5.wav" />
+	</sounds>
+	<category name="HyperMania">
+		<stage name="Hidden Palace" folder="HPZ" id="1" filter="1"/>
+	</category>
+</game>
